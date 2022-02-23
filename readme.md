@@ -1,1 +1,1 @@
-http://dan-kot.github.io/skyzsec
+https://dan-kot.github.io/SkyzSec/
